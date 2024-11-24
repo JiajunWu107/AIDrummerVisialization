@@ -1,3 +1,4 @@
+// This file is a script for Kyle Robot in Unity 3D. De-select any restriction on the Robot to use.
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
